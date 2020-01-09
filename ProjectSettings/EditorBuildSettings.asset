@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CutsceneSpawn.unity
+    guid: 16ab62fc78b9e8a4596713f685363c3f
+  - enabled: 1
+    path: Assets/Scenes/CutsceneKafeterie.unity
+    guid: 2dc846ccd48664c4ea2445f302a4362a
+  - enabled: 1
+    path: Assets/Scenes/Spawn.unity
+    guid: 1a836499b3a6bf041a2e987efa5272a2
+  - enabled: 1
+    path: Assets/Scenes/FirstScene.unity
+    guid: d6bb3fe9cd6952a47bf21e4ff7be943e
+  - enabled: 1
+    path: Assets/Scenes/SecondScrene.unity
+    guid: 5b4c59b1bdaab514f93e9ed1ae64cb17
+  - enabled: 1
+    path: Assets/Scenes/Roof.unity
+    guid: b9ec42ff2d6838c44b093a1b0612f749
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: bc0096460ced0bb43b8e7d0c7660326c
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: edee441381028a346be3b6de6515d52a
+  m_configObjects: {}
